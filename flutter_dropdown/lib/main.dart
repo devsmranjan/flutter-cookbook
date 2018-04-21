@@ -53,3 +53,33 @@ class _MyHomePageState extends State<MyHomePage> {
 
   }
 }
+
+
+/*
+ *
+  * new DropdownButtonHideUnderline(
+          child: new Container(
+            decoration: new BoxDecoration(
+              border: new Border.all(
+                color: const Color(0xFFD9D9D9),
+              ),
+            ),
+            child: new DropdownButton<int>(
+              items: <int>[0, 1, 2, 3, 4, 5].map((int value) {
+                return new DropdownMenuItem<int>(
+                  value: value,
+                  child: new Padding(
+                    padding: const EdgeInsets.only(left: 8.0),
+                    child: new Text('Quantity $value'),
+                  ),
+                );
+              }).toList(),
+              value: quantity,
+              onChanged: onChanged,
+            ),
+          ),
+        ),
+  *
+  *
+  *
+  * */
