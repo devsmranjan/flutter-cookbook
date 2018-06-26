@@ -33,6 +33,7 @@ class MyApp extends StatelessWidget {
                 new Icon(Icons.directions_transit),
                 new Icon(Icons.directions_bike),
               ]),
-            )));
+            ))
+    );
   }
 }
