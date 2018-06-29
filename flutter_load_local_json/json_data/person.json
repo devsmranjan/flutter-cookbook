@@ -1,0 +1,32 @@
+[
+  {
+    "name" : "Smruti Ranjan Rana",
+    "age": "20",
+    "height" : "5'4''",
+    "gender" : "male"
+  },
+  {
+    "name" : "Biswa Bhushan Das",
+    "age": "21",
+    "height" : "5'9''",
+    "gender" : "male"
+  },
+  {
+    "name" : "Sagarika Singh",
+    "age": "20",
+    "height" : "5'2''",
+    "gender" : "female"
+  },
+  {
+    "name" : "Dola Gobinda Pradhan",
+    "age": "19",
+    "height" : "5'5''",
+    "gender" : "male"
+  },
+  {
+    "name" : "Snata Mohanty",
+    "age": "20",
+    "height" : "5'4''",
+    "gender" : "female"
+  }
+]
