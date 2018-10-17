@@ -52,3 +52,11 @@
 * Fade transition
 * Opacity
 * Twin animation
+
+## Flutter Animations
+
+* [Flutter URL Launcher](https://github.com/smrutiranjanrana/Flutter-URL-Launcher)
+* [Flutter Auth App](https://github.com/smrutiranjanrana/Flutter-Auth-App)
+* [Fluttery Chat](https://github.com/smrutiranjanrana/Fluttery-Chat)
+
+![Fluttery Chat](images/FlutteryChat.png)
