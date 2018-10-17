@@ -53,7 +53,7 @@
 * Opacity
 * Twin animation
 
-## Flutter Animations
+## Flutter Sample Apps
 
 * [Flutter URL Launcher](https://github.com/smrutiranjanrana/Flutter-URL-Launcher)
 * [Flutter Auth App](https://github.com/smrutiranjanrana/Flutter-Auth-App)
