@@ -60,3 +60,4 @@
 * [Fluttery Chat](https://github.com/smrutiranjanrana/Fluttery-Chat)
 * [Mausam](https://github.com/smrutiranjanrana/Mausam)
 * [Game of Thrones](https://github.com/smrutiranjanrana/Game-of-Thrones)
+* [Github Trendings](https://github.com/smrutiranjanrana/Github-Trendings)
