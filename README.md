@@ -1,4 +1,4 @@
-![Flutter Cookbook Banner](images/fc.png)
+![Flutter Cookbook Banner](images/fc-github.png)
 
 ### Show some :heart: and star the repo to support the project
 
