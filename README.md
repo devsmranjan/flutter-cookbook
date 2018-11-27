@@ -57,6 +57,10 @@ This cookbook contains recipes that demonstrate how to solve common problems whi
 * Opacity
 * Twin animation
 
+## [Flutter UI Challenge](https://github.com/smrutiranjanrana/Flutter-UI-Challenge)
+
+Coming soon.
+
 ## Flutter Sample Apps
 
 * [Flutter URL Launcher](https://github.com/smrutiranjanrana/Flutter-URL-Launcher)
