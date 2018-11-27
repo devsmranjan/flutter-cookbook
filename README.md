@@ -1,4 +1,8 @@
-# Flutter Cookbook
+![Flutter Cookbook Banner](images/fc.png)
+
+### Show some :heart: and star the repo to support the project
+
+[![GitHub stars](https://img.shields.io/github/stars/smrutiranjanrana/flutter-cookbook.svg?style=social&label=Star)](https://github.com/smrutiranjanrana/flutter-cookbook) [![GitHub forks](https://img.shields.io/github/forks/smrutiranjanrana/flutter-cookbook.svg?style=social&label=Fork)](https://github.com/smrutiranjanrana/flutter-cookbook/fork) [![GitHub watchers](https://img.shields.io/github/watchers/smrutiranjanrana/flutter-cookbook.svg?style=social&label=Watch)](https://github.com/smrutiranjanrana/flutter-cookbook) [![GitHub followers](https://img.shields.io/github/followers/smrutiranjanrana.svg?style=social&label=Follow)](https://github.com/smrutiranjanrana/flutter-cookbook)  
 
 ###### This cookbook contains recipes that demonstrate how to solve common problems while writing Flutter apps. Each recipe is self-contained and can be used as a reference to help you build up an application.
 
