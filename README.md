@@ -32,6 +32,7 @@ This cookbook contains recipes that demonstrate how to solve common problems whi
 * Raised button
 * Ripple effect
 * Rows
+* Scrollable tabs
 * Snackbar
 * Stepper
 * Swipe to dismiss
