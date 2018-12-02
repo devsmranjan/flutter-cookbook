@@ -98,5 +98,5 @@ Coming soon.
 
 ## Getting Started
 
-For help getting started with Flutter, view flutter's online
+Get started with flutter's official
 [documentation](http://flutter.io/).
