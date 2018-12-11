@@ -60,7 +60,7 @@ This cookbook contains recipes that demonstrate how to solve common problems whi
 
 ## [Flutter UI Challenge](https://github.com/smrutiranjanrana/Flutter-UI-Challenge)
 
-Coming soon.
+* Coaching App UI
 
 ## Flutter Sample Apps
 
