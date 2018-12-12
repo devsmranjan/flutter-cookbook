@@ -74,6 +74,9 @@ This cookbook contains recipes that demonstrate how to solve common problems whi
 
 ## Take a look
 
+![Flutter Flare Ball](https://github.com/smrutiranjanrana/Flutter_Flare_Ball/blob/master/flare_ball.gif)
+![Game of Throns](https://github.com/smrutiranjanrana/Game-of-Thrones/blob/master/GOT.gif)
+![GitHub Trendings](https://github.com/smrutiranjanrana/Github-Trendings/blob/master/TrendingRepo.gif)
 ![Mausam](https://github.com/smrutiranjanrana/Mausam/blob/master/Screenshot.png)
 
 ## Created & Maintained By
