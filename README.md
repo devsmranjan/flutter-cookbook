@@ -70,7 +70,7 @@ This cookbook contains recipes that demonstrate how to solve common problems whi
 * [Mausam](https://github.com/smrutiranjanrana/Mausam)
 * [Game of Thrones](https://github.com/smrutiranjanrana/Game-of-Thrones)
 * [Github Trendings](https://github.com/smrutiranjanrana/Github-Trendings)
-
+* [Flare Ball](https://github.com/smrutiranjanrana/Flutter_Flare_Ball)
 
 ## Created & Maintained By
 
