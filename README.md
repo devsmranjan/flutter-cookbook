@@ -71,7 +71,9 @@ This cookbook contains recipes that demonstrate how to solve common problems whi
 * [Game of Thrones](https://github.com/smrutiranjanrana/Game-of-Thrones)
 * [Github Trendings](https://github.com/smrutiranjanrana/Github-Trendings)
 * [Flare Ball](https://github.com/smrutiranjanrana/Flutter_Flare_Ball)
-* [Firebase-Flutter-ML-Kit](https://github.com/smrutiranjanrana/Firebase-Flutter-ML-Kit)
+* [Firebase-Flutter ML Kit](https://github.com/smrutiranjanrana/Firebase-Flutter-ML-Kit)
+* [Shared Preference](https://github.com/smrutiranjanrana/Shared-Preference)
+* [Theme Switcher (BLOC)](https://github.com/smrutiranjanrana/Theme-Switcher-BLOC)
 
 ## Take a look
 
